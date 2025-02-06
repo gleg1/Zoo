@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: brown;
+    padding: 65px 75px 65px 75px;
+}
+
+footer{
+    background-color: blue;
+    margin: 10px;
+}
+
+main a{
+    border: 5px salmon;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 5px;
+    color: black;
+    text-decoration: none;
+    background-color: blueviolet;
+
+}
+
+main img{
+    width: 100px;
+    height: 100px;
+}
+
+body{
+    background-color: aquamarine;
+}
